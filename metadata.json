@@ -1,0 +1,5 @@
+{
+  "name": "Aadhaar Service Portal",
+  "description": "A comprehensive mobile-first portal for Aadhaar enrollment and update services, featuring appointment booking, document pre-verification, application tracking, and a service center locator.",
+  "requestFramePermissions": []
+}
